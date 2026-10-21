@@ -1,9 +1,10 @@
 \# ⚽ AFCON 2025 - Business Intelligence \& Data Warehouse
 
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 ![BI](https://img.shields.io/badge/Domain-Business%20Intelligence-blue?style=for-the-badge&logo=powerbi)
 ![ETL](https://img.shields.io/badge/ETL-Talend%20Open%20Studio-orange?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-MySQL%20DW-lightgrey?style=for-the-badge&logo=mysql)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
+
 
 A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on the \*\*\*Africa Cup of Nations (AFCON) 2025\*\*\* tournament hosted in <bdi>Morocco</bdi>. This project covers the entire <bdi>BI</bdi> value chain: from raw data extraction to interactive visualization.
 
