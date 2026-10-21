@@ -62,7 +62,7 @@ Here are the data extraction, transformation, and loading (<bdi>ETL Pipeline</bd
 
 | :---: | :---: |
 
-| !\[Talend Job 1](ETL%20(Talend)/talend\_job1.png) | !\[Talend Job 2](ETL%20(Talend)/talend\_job2.png) |
+| !\[Talend Job 1](ETL%20(Talend)/talend_job1.png) | !\[Talend Job 2](ETL%20(Talend)/talend\_job2.png) |
 
 
 
