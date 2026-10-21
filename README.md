@@ -40,45 +40,25 @@ A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on
 
 \* `Visualisation de Power BI.pbix` : The main interactive Power BI dashboard.
 
-\* `Rapport de Mini\_Projet.pdf` : Complete technical and functional project report.
-
-\* `Presentation .pptx` : Project presentation slides.
-
-
 
 \---
 
 
-
-\## ⚙️ ETL Process (<bdi>Talend Open Studio</bdi>)
-
-
+## ⚙️ Processus ETL (<bdi>Talend Open Studio</bdi>)
 
 Here are the data extraction, transformation, and loading (<bdi>ETL Pipeline</bdi>) stages built with <bdi>Talend</bdi>:
 
-
-
-| Step 1: Extraction \& Connection | Step 2: Transformation \& Lookups |
-
+| Step 1: Extraction & Connection | Step 2: Transformation & Lookups |
 | :---: | :---: |
-
-| !\[Talend Job 1](ETL%20(Talend)/talend_job1.png) | !\[Talend Job 2](ETL%20(Talend)/talend\_job2.png) |
-
-
+| ![Talend Job 1](ETL%20(Talend)/talend_job1.png) | ![Talend Job 2](ETL%20(Talend)/talend_job2.png) |
 
 | Step 3: Data Mapping | Step 4: Staging into DW |
-
 | :---: | :---: |
+| ![Talend Job 3](ETL%20(Talend)/talend_job3.png) | ![Talend Job 4](ETL%20(Talend)/talend_job4.png) |
 
-| !\[Talend Job 3](ETL%20(Talend)/talend\_job3.png) | !\[Talend Job 4](ETL%20(Talend)/talend\_job4.png) |
-
-
-
-| Step 5: Validation \& Output | Step 6: Final Pipeline |
-
+| Step 5: Validation & Output | Step 6: Final Pipeline |
 | :---: | :---: |
-
-| !\[Talend Job 5](ETL%20(Talend)/talend\_job5.png) | !\[Talend Job 6](ETL%20(Talend)/talend\_job6.png) |
+| ![Talend Job 5](ETL%20(Talend)/talend_job5.png) | ![Talend Job 6](ETL%20(Talend)/talend_job6.png) |
 
 
 
