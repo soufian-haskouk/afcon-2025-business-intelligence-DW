@@ -2,21 +2,63 @@
 
 
 
-Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\*Coupe d'Afrique des Nations (AFCON) 2025\*\*\* organisée au <bdi>Maroc</bdi>. Ce projet couvre l'ensemble de la chaîne de valeur de la <bdi>Business Intelligence</bdi> : de l'extraction des données brutes jusqu'à la visualisation interactive.
+A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on the \*\*\*Africa Cup of Nations (AFCON) 2025\*\*\* tournament hosted in <bdi>Morocco</bdi>. This project covers the entire <bdi>BI</bdi> value chain: from raw data extraction to interactive visualization.
 
 
 
 \---
 
-\## ⚙️ Processus ETL (<bdi>Talend Open Studio</bdi>)
+
+
+\## 🛠️ Tech Stack \& Architecture
 
 
 
-إليك مراحل معالجة واستخراج البيانات (<bdi>ETL Pipeline</bdi>) عبر برمجية <bdi>Talend</bdi> :
+\* \*\*Data Sources:\*\* <bdi>CSV</bdi> files (Match statistics, teams, and players of AFCON 2025).
+
+\* \*\*ETL Tool:\*\* <bdi>Talend Open Studio</bdi> (Data transformation pipelines, multiple lookups, and staging).
+
+\* \*\*Database (DW):\*\* <bdi>MySQL 8.0</bdi> (Star Schema design with dimensional modeling).
+
+\* \*\*Visualization:\*\* <bdi>Microsoft Power BI Desktop</bdi> (Interactive dashboard with advanced <bdi>DAX</bdi> measures).
 
 
 
-| Étape 1 : Extraction \& Connexion | Étape 2 : Transformation \& Lookups |
+\---
+
+
+
+\## 📂 Repository Structure
+
+
+
+\* `DataSets (csv)/` : Contains the raw data source files.
+
+\* `Base de donnee (DW)/` : SQL scripts and database backup for the Data Warehouse.
+
+\* `ETL (Talend)/` : Talend jobs and workflow documentation.
+
+\* `Visualisation de Power BI.pbix` : The main interactive Power BI dashboard.
+
+\* `Rapport de Mini\_Projet.pdf` : Complete technical and functional project report.
+
+\* `Presentation .pptx` : Project presentation slides.
+
+
+
+\---
+
+
+
+\## ⚙️ ETL Process (<bdi>Talend Open Studio</bdi>)
+
+
+
+Here are the data extraction, transformation, and loading (<bdi>ETL Pipeline</bdi>) stages built with <bdi>Talend</bdi>:
+
+
+
+| Step 1: Extraction \& Connection | Step 2: Transformation \& Lookups |
 
 | :---: | :---: |
 
@@ -24,7 +66,7 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 
 
-| Étape 3 : Mapping des Données | Étape 4 : Chargement dans le DW |
+| Step 3: Data Mapping | Step 4: Staging into DW |
 
 | :---: | :---: |
 
@@ -32,7 +74,7 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 
 
-| Étape 5 : Validation \& Sortie | Étape 6 : Pipeline Final |
+| Step 5: Validation \& Output | Step 6: Final Pipeline |
 
 | :---: | :---: |
 
@@ -40,19 +82,25 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 
 
-
-
-\## 🛠️ Stack Technique \& Architecture
+\---
 
 
 
-\* \*\*Sources de Données :\*\* Fichiers <bdi>CSV</bdi> (Statistiques de matchs, équipes et joueurs de l'AFCON 2025).
+\## 📊 Power BI Dashboard Features
 
-\* \*\*Outil ETL :\*\* <bdi>Talend Open Studio</bdi> (Pipeline de transformation, lookups multiples et chargement).
 
-\* \*\*Base de Données (Entrepôt) :\*\* <bdi>MySQL 8.0</bdi> (Modèle en étoile / <bdi>Star Schema</bdi> avec dimensions et tables de faits).
 
-\* \*\*Visualisation :\*\* <bdi>Microsoft Power BI Desktop</bdi> (Dashboard interactif, mesures <bdi>DAX</bdi> avancées).
+1\. \*\*Home Page:\*\* Tournament overview and global KPIs.
+
+2\. \*\*Matches:\*\* Goal analysis by time intervals (10 and 15 min), attendance, and match stats.
+
+3\. \*\*Teams:\*\* Collective performance comparison via dynamic slicers.
+
+4\. \*\*Venues:\*\* Interactive mapping of Moroccan stadiums, capacity filling rates, and performance scores.
+
+5\. \*\*Players:\*\* Demographic analysis, positions, radar charts, and leaderboards (Top Scorers, Top Assists).
+
+6\. \*\*Player Comparison:\*\* Cross-filtering and deep-dive individual match statistics.
 
 
 
@@ -60,57 +108,13 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 
 
-\## 📂 Structure du Dépôt (<bdi>Repository Structure</bdi>)
+\## 🚀 Installation \& Setup
 
 
 
-\* `DataSets (csv)/` : Contient les fichiers de données sources brutes.
-
-\* `Base de donnee (DW)/` : Scripts SQL et sauvegarde de l'entrepôt de données sous <bdi>MySQL</bdi>.
-
-\* `ETL (Talend)/` : Documentation et jobs de transformation des données.
-
-\* `Visualisation de Power BI.pbix` : Le tableau de bord interactif <bdi>Power BI</bdi>.
-
-\* `Rapport de Mini\_Projet.pdf` : Le rapport technique et fonctionnel complet du projet.
-
-\* `Presentation .pptx` : Le support de présentation.
-
-
-
-\---
-
-
-
-\## 📊 Fonctionnalités du Dashboard Power BI
-
-
-
-1\. \*\*Page d'Accueil :\*\* Vue d'ensemble et KPIs globaux du tournoi.
-
-2\. \*\*Matchs :\*\* Analyse des buts par intervalles (10 et 15 min), affluence et statistiques globales.
-
-3\. \*\*Équipes :\*\* Comparaison des performances collectives via un sélecteur dynamique.
-
-4\. \*\*Stades :\*\* Cartographie interactive des stades marocains, taux de remplissage et scores de performance.
-
-5\. \*\*Joueurs :\*\* Analyse démographique, postes, graphiques radar et classements (<bdi>Top Buteurs</bdi>, <bdi>Top Passeurs</bdi>).
-
-6\. \*\*Comparaison Joueurs :\*\* Filtres croisés et analyse approfondie des faits de match individuels.
-
-
-
-\---
-
-
-
-\## ⚙️ Installation et Exécution
-
-
-
-1\. Clonez le dépôt sur votre machine :
+1\. Clone the repository:
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/soufian-haskouk/afcon-2025-business-intelligence.git](https://github.com/soufian-haskouk/afcon-2025-business-intelligence.git) 
+&#x20;  git clone \[https://github.com/soufian-haskouk/afcon-2025-business-intelligence.git](https://github.com/soufian-haskouk/afcon-2025-business-intelligence.git)
 
