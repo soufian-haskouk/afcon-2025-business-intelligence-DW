@@ -12,7 +12,7 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 
 
-إليك بعض لقطات الشاشة التي توضح مراحل استخراج، تحويل، وشحن البيانات (<bdi>ETL Pipeline</bdi>) عبر برمجية <bdi>Talend</bdi>:
+إليك مراحل معالجة واستخراج البيانات (<bdi>ETL Pipeline</bdi>) عبر برمجية <bdi>Talend</bdi> :
 
 
 
@@ -29,6 +29,14 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 | :---: | :---: |
 
 | !\[Talend Job 3](ETL%20(Talend)/Screenshot%202026-10-21%20175621.png) | !\[Talend Job 4](ETL%20(Talend)/Screenshot%202026-10-21%20175633.png) |
+
+
+
+| Étape 5 : Validation \& Sortie | Étape 6 : Pipeline Final |
+
+| :---: | :---: |
+
+| !\[Talend Job 5](ETL%20(Talend)/Screenshot%202026-10-21%20175642.png) | !\[Talend Job 6](ETL%20(Talend)/Screenshot%202026-10-21%20175655.png) |
 
 
 
