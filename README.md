@@ -7,7 +7,25 @@
 
 A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on the \*\*\*Africa Cup of Nations (AFCON) 2025\*\*\* tournament hosted in <bdi>Morocco</bdi>. This project covers the entire <bdi>BI</bdi> value chain: from raw data extraction to interactive visualization.
 
+## 📊 Power BI Dashboard Preview
 
+Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages for the <bdi>AFCON 2025</bdi> tournament:
+
+| Home Page (<bdi>Accueil</bdi>) | Matchs Analysis (<bdi>Matchs</bdi>) |
+| :---: | :---: |
+| ![Accueil](Images/accueil.png) | ![Matchs](Images/matchs.png) |
+
+| Teams Comparison (<bdi>Équipes</bdi>) | Stadiums & Venues (<bdi>Stades</bdi>) |
+| :---: | :---: |
+| ![Equipes](Images/equipes.png) | ![Stades](Images/stades.png) |
+
+| Players Statistics - Part 1 | Players Statistics - Part 2 |
+| :---: | :---: |
+| ![Joueurs 1](Images/joueurs_1.png) | ![Joueurs 2](Images/joueurs_2.png) |
+
+| Player Comparison Analysis |
+| :---: |
+| ![Compare Joueur](Images/compare_joueur.png) |
 
 \---
 
