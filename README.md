@@ -20,7 +20,7 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 | :---: | :---: |
 
-| !\[Talend Job 1](ETL%20(Talend)/Screenshot%202026-10-21%20175546.png) | !\[Talend Job 2](ETL%20(Talend)/Screenshot%202026-10-21%20175602.png) |
+| !\[Talend Job 1](ETL%20(Talend)/talend\_job1.png) | !\[Talend Job 2](ETL%20(Talend)/talend\_job2.png) |
 
 
 
@@ -28,7 +28,7 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 | :---: | :---: |
 
-| !\[Talend Job 3](ETL%20(Talend)/Screenshot%202026-10-21%20175621.png) | !\[Talend Job 4](ETL%20(Talend)/Screenshot%202026-10-21%20175633.png) |
+| !\[Talend Job 3](ETL%20(Talend)/talend\_job3.png) | !\[Talend Job 4](ETL%20(Talend)/talend\_job4.png) |
 
 
 
@@ -36,7 +36,9 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 | :---: | :---: |
 
-| !\[Talend Job 5](ETL%20(Talend)/Screenshot%202026-10-21%20175642.png) | !\[Talend Job 6](ETL%20(Talend)/Screenshot%202026-10-21%20175655.png) |
+| !\[Talend Job 5](ETL%20(Talend)/talend\_job5.png) | !\[Talend Job 6](ETL%20(Talend)/talend\_job6.png) |
+
+
 
 
 
