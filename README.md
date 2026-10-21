@@ -21,7 +21,7 @@ Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages
 
 | Players Statistics - Part 1 | Players Statistics - Part 2 |
 | :---: | :---: |
-| ![Joueurs 1](ImagesBI/joueurs_1.png) | ![Joueurs 2](ImagesBI/joueurs_2.png) |
+| ![Joueurs 1](ImagesBI/joueurs_1.png) | ![Joueurs 2](ImagesBI/Joueurs_2.png) |
 
 | Player Comparison Analysis |
 | :---: |
