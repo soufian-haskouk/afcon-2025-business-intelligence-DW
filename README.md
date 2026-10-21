@@ -8,6 +8,28 @@ Système décisionnel complet (<bdi>BI</bdi>) basé sur les données de la \*\*\
 
 \---
 
+\## ⚙️ Processus ETL (<bdi>Talend Open Studio</bdi>)
+
+
+
+إليك بعض لقطات الشاشة التي توضح مراحل استخراج، تحويل، وشحن البيانات (<bdi>ETL Pipeline</bdi>) عبر برمجية <bdi>Talend</bdi>:
+
+
+
+| Étape 1 : Extraction \& Connexion | Étape 2 : Transformation \& Lookups |
+
+| :---: | :---: |
+
+| !\[Talend Job 1](ETL%20(Talend)/Screenshot%202026-10-21%20175546.png) | !\[Talend Job 2](ETL%20(Talend)/Screenshot%202026-10-21%20175602.png) |
+
+
+
+| Étape 3 : Mapping des Données | Étape 4 : Chargement dans le DW |
+
+| :---: | :---: |
+
+| !\[Talend Job 3](ETL%20(Talend)/Screenshot%202026-10-21%20175621.png) | !\[Talend Job 4](ETL%20(Talend)/Screenshot%202026-10-21%20175633.png) |
+
 
 
 \## 🛠️ Stack Technique \& Architecture
