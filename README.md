@@ -12,9 +12,9 @@ A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on
 
 Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages for the <bdi>AFCON 2025</bdi> tournament:
 
-| Home Page (<bdi>Accueil</bdi>) | Matchs Analysis (<bdi>Matchs</bdi>) |
+| Home Page (<bdi>Accueil</bdi>) | 
 | :---: | :---: |
-| ![Accueil](ImagesBI/accueil.png) | ![Matchs](ImagesBI/matchs.png) |
+| ![Accueil](ImagesBI/accueil.png) | 
 
 | Teams Comparison (<bdi>Équipes</bdi>) | Stadiums & Venues (<bdi>Stades</bdi>) |
 | :---: | :---: |
@@ -24,9 +24,9 @@ Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages
 | :---: | :---: |
 | ![Joueurs 1](ImagesBI/joueurs_1.png) | ![Joueurs 2](ImagesBI/Joueurs_2.png) |
 
-| Player Comparison Analysis |
+| Player Comparison Analysis |Matchs Analysis (<bdi>Matchs</bdi>) |
 | :---: |
-| ![Compare Joueur](ImagesBI/compare_joueur.png) |
+| ![Compare Joueur](ImagesBI/compare_joueur.png) |![Matchs](ImagesBI/matchs.png) |
 
 \---
 
