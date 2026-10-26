@@ -8,7 +8,7 @@
 
 A complete Business Intelligence (<bdi>BI</bdi>) decision-making system based on the \*\*\*Africa Cup of Nations (AFCON) 2025\*\*\* tournament hosted in <bdi>Morocco</bdi>. This project covers the entire <bdi>BI</bdi> value chain: from raw data extraction to interactive visualization.
 
-## 📊 Power BI Dashboard Preview
+## 📊 Power BI Dashboard Preview:
 
 Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages for the <bdi>AFCON 2025</bdi> tournament:
 
@@ -114,7 +114,7 @@ Here are the data extraction, transformation, and loading (<bdi>ETL Pipeline</bd
 
 
 
-1\. Clone the repository:
+** Clone the repository:
 
 &#x20;  ```bash
 
