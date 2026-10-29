@@ -31,6 +31,12 @@ Here is a visual overview of the interactive <bdi>Power BI</bdi> dashboard pages
 \---
 
 
+## 📊 Data Warehouse Architecture (Star Schema)
+
+Here is the relational schema and data model designed for the AFCON 2025 Business Intelligence project, illustrating the star schema structure featuring fact tables (`fact_matches`, `fact_player_stats`, `fact_leagues`) and dimension tables (`dim_player`, `dim_team`, `dim_stadium`, `dim_date`):
+
+![AFCON 2025 Star Schema](imageBI/star-schema.png)
+
 
 \## 🛠️ Tech Stack \& Architecture
 
